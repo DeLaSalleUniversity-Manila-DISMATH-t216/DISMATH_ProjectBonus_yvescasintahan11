@@ -5,8 +5,8 @@
 
 ## Linear Search
 ![Screenshot](linear search.png)
-![Screenshot](inear search blocks.png)
+![Screenshot](linear search blocks.png)
 
 ## Binary Search
 ![Screenshot](binary search.png)
-![Screenshot](binary serch blocks.png)
+![Screenshot](binary search blocks.png)
